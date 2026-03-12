@@ -1,16 +1,49 @@
-## Hi there 👋
+```
+██████╗ ███████╗ ██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██╔════╝██╔═══██╗██║   ██║██║   ██║
+██║  ██║█████╗  ██║   ██║██║   ██║██║   ██║
+██║  ██║██╔══╝  ██║▄▄ ██║╚██╗ ██╔╝╚██╗ ██╔╝
+██████╔╝███████╗╚██████╔╝ ╚████╔╝  ╚████╔╝ 
+╚═════╝ ╚══════╝ ╚══▀▀═╝   ╚═══╝    ╚═══╝  
+```
 
-<!--
-**Deqvv/deqvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> deqvv — builder. solo. no days off.
 
-Here are some ideas to get you started:
+$ cat stack.txt
+> Python · JavaScript · Node.js · Telegram Bots · Automation · AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ls projects/
+> GHOST-AI/   telegram-bots/   deqv-studio/   pentest-tools/
+
+$ cat status.txt
+> shipping daily. GHOST v2.0 in development.
+```
+
+---
+
+### what i build
+
+**[GHOST AI](https://ghost-ai.vercel.app)** — privacy-first AI terminal. VPN-enforced. no logs. no trace. `[IN DEV]`
+
+**[Ethical Hacking Bundle](https://deqvvstudio.gumroad.com)** — 5 async Python tools for bug bounty & pentesting. subenum · portscan · CVE lookup · recon · reporter.
+
+**[DEQV Studio](https://deqvvstudio.gumroad.com)** — digital tools, templates & automation scripts.
+
+**Telegram Bot Dev** — custom bots for businesses. booking systems, group moderation, AI assistants. [Fiverr →](https://fiverr.com)
+
+---
+
+### stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frommetothe-debug&show_icons=true&theme=dark&bg_color=000000&title_color=cc0000&icon_color=cc0000&text_color=888888&border_color=1a0000&hide_border=false)
+
+---
+
+```
+// private. dangerous. elite.
+// new drops when they're ready.
+```
+
+**[X](https://x.com/VYRNWN) · [Gumroad](https://deqvvstudio.gumroad.com) · [Fiverr](https://fiverr.com)**
