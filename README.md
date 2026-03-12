@@ -27,11 +27,11 @@ $ cat status.txt
 
 **[GHOST AI](https://ghost-ai.vercel.app)** — privacy-first AI terminal. VPN-enforced. no logs. no trace. `[IN DEV]`
 
-**[Ethical Hacking Bundle](https://deqvvstudio.gumroad.com)** — 5 async Python tools for bug bounty & pentesting. subenum · portscan · CVE lookup · recon · reporter.
+**[Ethical Hacking Bundle]([https://deqvvstudio.gumroad.com](https://gum.new/gum/cmmnokly2001504l862twedr5))** — 5 async Python tools for bug bounty & pentesting. subenum · portscan · CVE lookup · recon · reporter.
 
-**[DEQV Studio](https://deqvvstudio.gumroad.com)** — digital tools, templates & automation scripts.
+**[DEQV Studio]([https://deqvvstudio.gumroad.com](https://deqv.gumroad.com/))** — digital tools, templates & automation scripts.
 
-**Telegram Bot Dev** — custom bots for businesses. booking systems, group moderation, AI assistants. [Fiverr →](https://fiverr.com)
+**Telegram Bot Dev** — custom bots for businesses. booking systems, group moderation, AI assistants. [Fiverr →]([https://fiverr.com](https://www.fiverr.com/users/deqvstdio/seller_dashboard))
 
 ---
 
