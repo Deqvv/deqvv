@@ -27,7 +27,7 @@ $ cat status.txt
 
 **[GHOST AI](https://ghost-ai.vercel.app)** — privacy-first AI terminal. VPN-enforced. no logs. no trace. `[IN DEV]`
 
-**[Ethical Hacking Bundle](https://gum.new/gum/cmmnokly2001504l862twedr45)** — 5 async Python tools for bug bounty & pentesting. subenum · portscan · CVE lookup · recon · reporter.
+**[Ethical Hacking Bundle](https://gum.new/gum/cmmnokly2001504l862twedr5)** — 5 async Python tools for bug bounty & pentesting. subenum · portscan · CVE lookup · recon · reporter.
 
 **[DEQV Studio](https://deqv.gumroad.com)** — digital tools, templates & automation scripts.
 
